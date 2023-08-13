@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: darkgrey;
+}
+
+.app .main .game {
+    width: 300px;
+    height: 300px;
+    border: .1rem solid;
+    background-color: blue;
+    position: relative;
+}
+
+.app .main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.app .main .submit {
+    position: absolute;
+    padding: .3rem .2rem;
+    cursor: pointer;
+}
+
+.app .header {
+    text-align: center;
+    font-size: 3rem;
+}
+
+.app .header h1 {
+    font-size: 3rem;
+    color: cyan;
+}
+
+.app .footer {
+    text-align: center;
+}
+
+.app .footer .copyright {
+    margin-top: 100px;
+    font-size: 1.3rem;
+}
+
+.hide {
+    display: none !important;
+}
