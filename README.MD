@@ -1,6 +1,6 @@
 # Square Clicker Game :joystick:
 
-Welcome to the Square Clicker Game! This is a simple JavaScript game where the objective is to click on as many squares as possible within a specified time limit. Your goal is to achieve the highest score by clicking on the squares that appear on the screen
+Welcome to the Square Clicker Game! This is a simple JavaScript game where the objective is to click on as many squares as possible within a specified time limit. Your goal is to achieve the highest score by clicking on the squares that appear on the screen.
 
 ## How to Play
 
